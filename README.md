@@ -1,4 +1,31 @@
-# Will be added features
+# 🔗 Node Express Boilerplate
+A structure I made using the best practices I learned/found for the projects I will use.
+
+## Manual Installation
+
+If you would still prefer to do the installation manually, follow these steps:
+
+Clone the repo:
+
+```bash
+git clone https://github.com/fport/node-express-boilerplate
+cd node-express-boilerplate
+```
+
+Install the dependencies:
+
+```bash
+yarn install || yarn
+```
+
+Set the environment variables:
+
+```bash
+cp .env.example .env
+```
+ 
+
+## Will be added features
 - [ ] Database: MySQL database  
 - [ ] Authentication and authorization: using passport 
 - [ ] Validation: request data validation using Joi  
