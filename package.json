@@ -1,0 +1,23 @@
+{
+  "name": "express-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fport/node-express-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fport/node-express-boilerplate/issues"
+  },
+  "homepage": "https://github.com/fport/node-express-boilerplate#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
